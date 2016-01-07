@@ -11,3 +11,11 @@
 * Menu complete with how to play, highscores, easy navigation about the menu
 * Ability to pause the game with key "p"
 * Colored output, images, music, animations
+
+## Dependencies
+
+* Please make sure you have pygame module installed
+
+## Issues
+
+* Please let me know if you face any troubles using the game or find any bugs. :)
